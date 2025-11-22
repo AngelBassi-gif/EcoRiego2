@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699599006284",
+    "project_id": "ecoriego-cb71c",
+    "storage_bucket": "ecoriego-cb71c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699599006284:android:3743d471cee291c47fe2e9",
+        "android_client_info": {
+          "package_name": "com.example.ecoriego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb41cDbxmIUzsToliDVe19WYIOxTxxfzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699599006284:android:5412ce03240575987fe2e9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb41cDbxmIUzsToliDVe19WYIOxTxxfzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
